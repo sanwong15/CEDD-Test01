@@ -1,0 +1,26 @@
+<annotation>
+	<folder>volcanic_rocks</folder>
+	<filename>volcanic_rocks_60.jpg</filename>
+	<path>/Users/san/Dev/GitKraken-Personal/CEDD-Test01/ImageDataSet/dataset/rocks/volcanic_rocks/volcanic_rocks_60.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>462</width>
+		<height>462</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>volcanic_rock</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>289</xmin>
+			<ymin>59</ymin>
+			<xmax>376</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
